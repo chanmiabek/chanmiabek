@@ -1,4 +1,4 @@
- Hi there  Chan Miabek👋
+ Hi there  I'm Chan Miabek👋
 
 <!--
 **chanmiabek/chanmiabek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
